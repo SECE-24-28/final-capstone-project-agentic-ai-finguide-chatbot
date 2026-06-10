@@ -1,4 +1,4 @@
-# 💰 FinLit — Financial Literacy Chatbot for Students
+# 💰 FinGuide — Financial Literacy Chatbot for Students
 
 > An AI-powered financial literacy platform that helps students understand, track, and improve their personal finances through intelligent conversation.
 
@@ -6,7 +6,7 @@
 
 ## 🧭 Overview
 
-FinLit is a full-stack web application featuring an AI chatbot at its core. It guides students through personalized financial questions, remembers their answers, and turns that data into actionable insights on a live dashboard — all backed by a smart spending and budget tracker.
+FinGuide is a full-stack web application featuring an AI chatbot at its core. It guides students through personalized financial questions, remembers their answers, and turns that data into actionable insights on a live dashboard — all backed by a smart spending and budget tracker.
 
 ---
 
@@ -169,13 +169,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-[MIT](./LICENSE)
-
----
-
-## 👨‍💻 Author
-
-Built with ❤️ for student financial empowerment.
